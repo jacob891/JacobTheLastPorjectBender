@@ -1,5 +1,5 @@
 .navbar{
-    background-color: rgb(147, 109, 161);
+    background-color: rgb(50, 19, 61);
     color: black;
 }
 .row{
@@ -28,4 +28,8 @@
         position:fixed;
         left:0;
         top:0;
+    }
+
+    #box{
+        z-index: 1000000000000;
     }
